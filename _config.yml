@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Benjamin Rohr # the website title (if blank, full name will be used instead)
 first_name: Benjamin
 middle_name:
 last_name: Rohr
@@ -54,8 +54,8 @@ socials_in_search: true
 bib_search: true
 
 # Dimensions
-#max_width: 930px
-max_width: 990px
+max_width: 930px #990px
+
 
 # TODO: add layout settings (single page vs. multi-page)
 
