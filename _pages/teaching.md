@@ -14,7 +14,7 @@ nav_order: 3
 **Political Networks** (graduate). University of Mannheim. Spring 2023, Spring 2024, Spring 2025. 
 
 <div class="button-container">
-    <a href="{{ BenjaRoh.github.io }}/assets/xxx.pdf" class="btn btn--inverse" target="_blank">
+    <a href="{{ BenjaRoh.github.io }}/assets/PN_Syllabus.pdf" class="btn btn--inverse" target="_blank">
         Syllabus
     </a>
 </div>
@@ -22,7 +22,7 @@ nav_order: 3
 **Social Networks and Politics** (undergraduate). University of Mannheim. Fall 2022, Spring 2023, Spring 2024, Spring 2025. 
 
 <div class="button-container">
-    <a href="{{ BenjaRoh.github.io }}/assets/xxx.pdf" class="btn btn--inverse" target="_blank">
+    <a href="{{ BenjaRoh.github.io }}/assets/SNAP_Syllabus.pdf" class="btn btn--inverse" target="_blank">
         Syllabus
     </a>
 </div>
@@ -30,7 +30,7 @@ nav_order: 3
 **Introduction to Political Sociology** (graduate). University of Mannheim. Fall 2023, Fall 2024.
 
 <div class="button-container">
-    <a href="{{ BenjaRoh.github.io }}/assets/xxx.pdf" class="btn btn--inverse" target="_blank">
+    <a href="{{ BenjaRoh.github.io }}/assets/Intro_Political_Soc_Syllabus.pdf" class="btn btn--inverse" target="_blank">
         Syllabus
     </a>
 </div>
