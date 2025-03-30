@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political institutions. I received a PhD in sociology from the University of Chicago and am currently a Postdoctoral Researcher in the Department of Sociology at the University of Mannheim. 
+yy Welcome! I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political institutions. I received a PhD in sociology from the University of Chicago and am currently a Postdoctoral Researcher in the Department of Sociology at the University of Mannheim. 
 
 My main research project examines the relationship between state formation and the emergence of the first political parties in American history (1777-1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the changing structure of elite recruitment in the American state (1850-2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376-1378). My latest project utilizes NLP tools to analyze the protocols of the German *Reichstag* during the Weimar Republic (1919-1932). You can read more about my work <a href="{{ "/research/" | relative_url }}" style="color: darkgreen; font-weight: bold;">here</a>.
 
@@ -41,57 +41,48 @@ My research has been published or is forthcoming in the *American Sociological R
 
 
 <style>
-  .rounded-circle {
-border-radius: 12%!important;
+
+.post-title {
+  font-size: 5rem;
+  display: none;
 }
 
-
-  .subpicture {
-font-size: 1.2rem;
-font-weight: 400;
-font-family: "Roboto",sans-serif;
-  text-decoration-line: underline;
-  text-decoration-color: var(--global-hover-color);
-  text-underline-offset: 5px;
-  text-decoration-thickness: 1px;
+.rounded-circle {
+  border-radius: 12%!important;
 }
 
-  .subpicture-affil {
-font-size: 1rem;
-font-weight: 300;
-font-family: "Roboto",sans-serif;
+.subpicture {
+  font-size: 2.2rem;
+  font-weight: 300;
+  font-family: Minimal, sans-serif;
+}
+
+.subpicture-affil {
+  font-size: 1.2rem;
+  font-weight: 200;
+  color: gray !important;
+  font-family: Minimal, sans-serif;
 }
 
 .profile .more-info {
-display: inline-block;
-margin-bottom: 5rem;
-margin-top: 0rem;
-text-align: center;
-vertical-align: middle;
-justify-content: center;
-align-items: center;
-display: flex;
+  display: inline-block;
+  margin-bottom: 5rem;
+  margin-top: 0rem;
+  text-align: center;
+  vertical-align: middle;
+  justify-content: center;
+  align-items: center;
+  display: flex;
 }
 
 .profile .more-info .p .a {
-
-text-align: center;
-
+  text-align: center;
 }
 
 .clearfix p {
   text-align: justify;
   text-justify: inter-word;
 }
-
-
-
-.post-title {
-  font-size: 1.7rem;
-  display: none;
-}
-
-
 
 </style>
 
