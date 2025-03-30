@@ -1,41 +1,43 @@
 ---
 layout: about
-title: Home
+title: HOME
 permalink: /
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: left
-  image: foto.jpg
+  image: BR.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p> <u class="subpicture"> Thomas Tichelbaecker </u> <br>
-    <a class = "subpicture-affil" > Research fellow </a>  <br>
-    <a class = "subpicture-affil" > TU Chemnitz </a>  <br>
-    <a class = "subpicture-affil" > &mdash; </a>  <br>
-    <a class = "subpicture-affil" > PhD Candidate </a>  <br>
-    <a class = "subpicture-affil" > Princeton University </a>  <br>
-    <a href="https://twitter.com/ttichelbaecker"> <i class="fa-brands fa-twitter fa-lg"></i></a>
-    <a href="https://bsky.app/profile/ttichelbaecker.bsky.social"> <i class="fa-brands fa-bluesky"></i></a>
-        <a href="https://scholar.google.com/citations?user=jj1NAdwAAAAJ&hl=de"> <i class="fa-brands fa-google-scholar fa-lg"></i> </a>
-        <a href="https://github.com/tichelbaecker"> <i class="fa-brands fa-github fa-lg"></i> </a>
-        <a href="mailto:tt9@princeton.edu"> <i class="fa-solid fa-envelope"></i> </a> </p>
+    <p> 
+      <a class = "subpicture"> Benjamin Rohr <br>
+      <a class = "subpicture-affil" > Postdoctoral Researcher </a>  <br>
+      <a class = "subpicture-affil" > Department of Sociology </a>  <br>
+      <a class = "subpicture-affil" > University of Mannheim </a>  <br>
+    </p>
 
 
-news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
+
+announcements:
+  enabled: false # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 5 # leave blank to include all the news in the `_news` folder
+
+latest_posts:
+  enabled: false
+  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  limit: 3 # leave blank to include all the blog posts
 ---
 
-**Welcome!**
+Welcome! I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political institutions. I received a PhD in sociology from the University of Chicago and am currently a Postdoctoral Researcher in the Department of Sociology at the University of Mannheim. 
 
-I am a research fellow at TU Chemnitz in the team of [Arndt Leininger](https://aleininger.eu) investigating legacies of democratic transition. I am also a PhD candidate in the Department of Politics at Princeton University and am currently a visiting researcher at MZES Mannheim. Before joining Princeton and Chemnitz, I studied at Tübingen and Berlin. You can download my CV [here](/assets/pdf/tichelbaecker_cv.pdf). 
+My main research project examines the relationship between state formation and the emergence of the first political parties in American history (1777-1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the changing structure of elite recruitment in the American state (1850-2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376-1378). My latest project utilizes NLP tools to analyze the protocols of the German *Reichstag* during the Weimar Republic (1919-1932). You can read more about my work <a href="{{ "/research/" | relative_url }}" style="color: darkgreen; font-weight: bold;">here</a>.
 
-In my dissertation, I examine the emergence of new political parties from an organizational perspective. In particular, I explore where new political parties are likely to build groundwork operations analyzing the role of bottom-up mechanisms, political elites, and local party competition.
+My research has been published or is forthcoming in the *American Sociological Review*, *Sociological Methods and Research*, *Social Science History*, and *Poetics*.
 
-Substantively, my research interests lie in political polarization, the composition and emergence of political elites as well as electoral discrimination. In my research, I use large, archival datasets and have developed [TableOCR](tableocr), a tool to facilitate data extraction from scanned images or documents. With this program, I collect novel data on candidates in local elections in Germany.
 
-My [research](research) has been published in the *American Political Science Review*, *American Journal of Political Science* and *Public Opinion Quarterly*. A Cambridge Element in European Politics joint with Noam Gidron is currently in press with *Cambridge University Press*.
 
 
 <style>
