@@ -9,7 +9,7 @@ nav_order: 3
 
 
 
-### Instructor of Record
+## Instructor of Record
 
 **Political Networks** (graduate). University of Mannheim. Spring 2023, Spring 2024, Spring 2025. 
 
@@ -42,7 +42,7 @@ nav_order: 3
 
 <br/>
 
-### Teaching Assistant
+## Teaching Assistant
 
 **Practicum in Historical Sociology**. University of Chicago. Spring 2020. 
 
@@ -63,7 +63,7 @@ nav_order: 3
 
 <br/>
 
-### Other
+## Other
 
 Consultant at “DataFest Germany 2024”
 
