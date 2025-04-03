@@ -79,15 +79,19 @@ In a collaborative project with William McAllister (Columbia University), I stud
 
 
 **Elite Cohesion in the American Administrative State, 1898-1998**  
-*Social Science History*, Forthcoming
+*Social Science History*, 2025
 
 <div class="button-container">
-    <button class="btn btn--inverse abstract-toggle" data-target="abstract-3">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-5">
         Abstract
     </button>
+
+    <a href="https://doi.org/10.1017/ssh.2025.16" class="btn btn--inverse" target="_blank">
+        Link
+    </a>
 </div>
 
-<div id="abstract-3" class="abstract-content">
+<div id="abstract-5" class="abstract-content">
     <p>
         Social scientists have long been interested in elite cohesion in American society, recognizing its potential implications for democracy and governance. While empirical research has focused on corporate elites and, in particular, on cohesion derived from shared board memberships, cohesion among those in highest positions in the American state and historical change in that cohesion have been little studied. Drawing on a novel dataset of the career histories of 2,221 people in these elite positions who were appointed to them between 1898 and 1998, I examine whether administrative elites, prior to their elite appointment, attended the same educational institutions or worked in the same agencies of the federal government at the same time. I find evidence of increasing elite cohesion during the twentieth century. Educational cohesion increases significantly in the three decades following the Second World War and then declines slightly toward the end of the century. This increase goes hand in hand with a change from college to graduate education as the primary site generating educational cohesion. Federal government workplace cohesion increases markedly in the 1930s and 1940s and then remains high. As people are appointed to different organizations within the American state, their educational and workplace connections create inter-agency networks that, it is expected, facilitate mutual understanding and coordination and thus help integrate the American administrative state.
     </p>
