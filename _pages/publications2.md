@@ -24,7 +24,7 @@ nav_order: 2
 <!-- Hidden Abstract -->
 <div id="abstract-1" class="abstract-content">
     <p>
-        A key component in the formation of the modern democratic state is the party system.  Yet theoretical understandings of the origins of such systems remain weak.  Misunderstanding the role of parties seriously biases our understanding of the American case of state formation, where parties played a major role in filling the offices created in the process of state expansion.  The origin of these parties has often been told only from the point of view of the national level, even though most government took place at the state level.  Using a new data set on roll call votes and on characteristics of legislators, we examine the case of New York, probably the state most advanced in its partisan organization, right after the founding of the federal government in 1789 into the Jefferson administration.  We demonstrate, first, that party coherence was far more developed in directions consonant with a “modern” party system than previously understood; second, that it led, as opposed to followed, partisan organization at the federal level; and third, that the parties gelled not around class or regional issues, but the endogenous struggle to define the rules of the game and, in particular, those that regulated access to public office.
+        Using a novel dataset on legislators and roll-call votes in the New York State Assembly after the U.S. Constitution took effect in 1789, we reevaluate prevailing theories about the nature and development of the democratic party system. Contrary to existing accounts, we find that legislative parties had already formed at this early stage, yet they did not arise from the politicization of social cleavages such as occupation or wealth, as sociologists might expect, nor were they merely networks of notables disconnected from the polity, as political scientists and historians have suggested. Instead, these parties coalesced around formal issues—structural questions that determined the rules of the game for future contests. Parties emerged, we argue, not because of an inherent need to adjudicate conflicts between sectors of the polity, but because of the organizational affordances of the modern democratic state. Our findings suggest that the formation of party systems is an integral part of the formation of the modern state.
     </p>
 </div>
 
@@ -35,6 +35,18 @@ Manuscript in preparation
 
 **Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs)  
 Manuscript under review
+
+<div class="button-container">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-2">
+        Abstract
+    </button>
+</div>
+
+<div id="abstract-2" class="abstract-content">
+    <p>
+        The study of political conflict often assumes that individuals’ social ties determine their political actions. While this structuralist approach has been successful in many contexts, it struggles to account for the actions of political elites, whose power depends on maintaining strategic flexibility. Political divisions among elites are largely endogenous to the political process and cannot be reduced to social position. Building on recent developments in social network theory, this paper advances an “action-in-networks” approach that, rather than using networks to predict sides, focuses on the dynamics of side-taking—how elites make, maintain, and sever ties to navigate the political field. We illustrate this perspective through a case study of John Williams, a key political figure in early New York who switched from the Republican to the Federalist Party in 1795. Using a dataset of over 300 personal letters, we show that Williams’ switch was not a predictable outcome of his network position but a strategic move that triggered a reconfiguration of his political and social relationships. Our analysis reveals three key insights: (1) Political elites operate in multiple, intersecting networks. (2) Political action involves not only the making but also the strategic breaking of ties to create new opportunities. (3) Political action is shaped by broader cultural logics embedded in social relations. By the late 1790s, partisanship had displaced older forms of patron-clientelism. Williams, who perhaps did not fully understand this change, found himself trapped in an uneasy alliance—one that ultimately undermined his political prospects.
+    </p>
+</div>
 
 
 **Turnover in the New York State Assembly, 1777-1825**  
@@ -82,7 +94,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
 *Social Science History*, 2025
 
 <div class="button-container">
-    <button class="btn btn--inverse abstract-toggle" data-target="abstract-5">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-3">
         Abstract
     </button>
 
@@ -91,7 +103,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
     </a>
 </div>
 
-<div id="abstract-5" class="abstract-content">
+<div id="abstract-3" class="abstract-content">
     <p>
         Social scientists have long been interested in elite cohesion in American society, recognizing its potential implications for democracy and governance. While empirical research has focused on corporate elites and, in particular, on cohesion derived from shared board memberships, cohesion among those in highest positions in the American state and historical change in that cohesion have been little studied. Drawing on a novel dataset of the career histories of 2,221 people in these elite positions who were appointed to them between 1898 and 1998, I examine whether administrative elites, prior to their elite appointment, attended the same educational institutions or worked in the same agencies of the federal government at the same time. I find evidence of increasing elite cohesion during the twentieth century. Educational cohesion increases significantly in the three decades following the Second World War and then declines slightly toward the end of the century. This increase goes hand in hand with a change from college to graduate education as the primary site generating educational cohesion. Federal government workplace cohesion increases markedly in the 1930s and 1940s and then remains high. As people are appointed to different organizations within the American state, their educational and workplace connections create inter-agency networks that, it is expected, facilitate mutual understanding and coordination and thus help integrate the American administrative state.
     </p>
