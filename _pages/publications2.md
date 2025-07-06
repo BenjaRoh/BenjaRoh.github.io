@@ -19,12 +19,20 @@ nav_order: 2
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-1">
         Abstract
     </button>
+
+    <a href="https://doi.org/10.1177/00031224251344574" class="btn btn--inverse" target="_blank">
+        Link
+    </a>
+
+    <a href="https://doi.org/10.7910/DVN/JLUVYU" class="btn btn--inverse" target="_blank">
+        replication files
+    </a>
 </div>
 
 <!-- Hidden Abstract -->
 <div id="abstract-1" class="abstract-content">
     <p>
-        Using a novel dataset on legislators and roll-call votes in the New York State Assembly after the U.S. Constitution took effect in 1789, we reevaluate prevailing theories about the nature and development of the democratic party system. Contrary to existing accounts, we find that legislative parties had already formed at this early stage, yet they did not arise from the politicization of social cleavages such as occupation or wealth, as sociologists might expect, nor were they merely networks of notables disconnected from the polity, as political scientists and historians have suggested. Instead, these parties coalesced around formal issues—structural questions that determined the rules of the game for future contests. Parties emerged, we argue, not because of an inherent need to adjudicate conflicts between sectors of the polity, but because of the organizational affordances of the modern democratic state. Our findings suggest that the formation of party systems is an integral part of the formation of the modern state.
+        Prevailing theories about the nature and development of the democratic party system fail to account for the important case of the United States. Using a novel dataset on legislators and roll call votes in the New York State Assembly after the ratification of the U.S. Constitution, we show that, contrary to existing accounts, legislative parties had already formed at this early stage. Yet these parties did not arise from the translation of social cleavages such as economic or social class into political oppositions, as sociologists might expect, nor were they merely networks of powerful elites disconnected from the polity, as political scientists and historians have suggested. Instead, these parties coalesced around formal issues—structural questions like the procedures for election and appointment, questions whose answer would determine the rules of the game for future contests. Parties emerged, we argue, not because of an inherent need to adjudicate conflicts between sectors of the polity, but because of the organizational affordances of the modern democratic state. Our findings suggest the formation of party systems is an integral part of the formation of the modern state.
     </p>
 </div>
 
@@ -44,7 +52,7 @@ Manuscript under review
 
 <div id="abstract-2" class="abstract-content">
     <p>
-        The study of political conflict often assumes that individuals’ social ties determine their political actions. While this structuralist approach has been successful in many contexts, it struggles to account for the actions of political elites, whose power depends on maintaining strategic flexibility. Political divisions among elites are largely endogenous to the political process and cannot be reduced to social position. Building on recent developments in social network theory, this paper advances an “action-in-networks” approach that, rather than using networks to predict sides, focuses on the dynamics of side-taking—how elites make, maintain, and sever ties to navigate the political field. We illustrate this perspective through a case study of John Williams, a key political figure in early New York who switched from the Republican to the Federalist Party in 1795. Using a dataset of over 300 personal letters, we show that Williams’ switch was not a predictable outcome of his network position but a strategic move that triggered a reconfiguration of his political and social relationships. Our analysis reveals three key insights: (1) Political elites operate in multiple, intersecting networks. (2) Political action involves not only the making but also the strategic breaking of ties to create new opportunities. (3) Political action is shaped by broader cultural logics embedded in social relations. By the late 1790s, partisanship had displaced older forms of patron-clientelism. Williams, who perhaps did not fully understand this change, found himself trapped in an uneasy alliance—one that ultimately undermined his political prospects.
+        Network studies of politics often assume that action is shaped by network position. However, this structuralist aproach breaks down in the case of political elites, who maintain power through strategic flexibility, and it distracts us from the actors and actions that are most revealing of the political field. We advance an “action-in-networks” approach that studies and theorizes how elites make, maintain, and sever ties as they form political alliances. We illustrate this through the case of John Williams, a prominent early New York politician who switched from the Republican to the Federalist party in 1795. Drawing on over 300 personal letters, we show that Williams’ switch was not the outcome of his network position but a strategic move that reconfigured his social ties. Our study highlights the importance of cutting ties and draws attention to the cultural logics that shape political action.
     </p>
 </div>
 
@@ -128,15 +136,11 @@ Manuscript under review
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-4">
         Abstract
     </button>
-
-    <a href="https://dx.doi.org/10.2139/ssrn.4219188" class="btn btn--inverse" target="_blank">
-        Preprint
-    </a>
 </div>
 
 <div id="abstract-4" class="abstract-content">
     <p>
-        What explains career advancement and success within organizations? While existing research tends to attribute career outcomes to individual attributes, this study offers a complementary account that emphasizes how centralized personnel management strategies shape careers. We develop this account in a study of career mobility in the Chinese party-state during the reform period (1978-2011). Drawing on a unique dataset of over 5,000 career histories of Chinese political elites and using vacancy chains as a novel measure of strategic job transfers, we show that officials involved in longer chains of orchestrated intraorganizational transfers were more likely to be promoted within the Chinese Communist Party (CCP). This relationship holds after controlling for personal attributes and social capital, is stronger for younger officials, and aligns with the timeline of China’s economic reforms. We interpret these findings as evidence that the CCP pursued a strategy of “organizational sponsorship,” in which promising young officials were rotated among subdivisions to develop them like pieces in a chess game. This strategy was a response to increasing organizational decentralization, aligning officials’ careers with the Party’s evolving goals. The study offers a novel framework for understanding job mobility in centralized bureaucracies, highlighting how organizational strategies shape individual career trajectories.
+        What explains career advancement and success within organizations? While existing research tends to attribute career outcomes to individual attributes, this study offers a complementary account that emphasizes how centralized personnel management strategies shape careers. We develop this account in a study of career mobility in the Chinese party-state during the reform period (1978-2011). Drawing on a unique dataset of over 5,000 career histories of Chinese political elites and using vacancy chains as a novel measure of strategic job transfers, we show that officials involved in longer chains of orchestrated intraorganizational transfers were more likely to be promoted within the Chinese Communist Party (CCP). This relationship holds after controlling for personal attributes and social capital, is stronger for younger officials, and aligns with the timeline of China’s economic reforms. We interpret these findings as evidence that the CCP pursued a strategy of organizational sponsorship, in which promising young officials were rotated among subdivisions to develop them like pieces in a chess game. This strategy was a response to increasing organizational decentralization, aligning officials’ careers with the Party’s evolving goals. The study offers a novel framework for understanding job mobility in centralized bureaucracies, highlighting how organizational strategies shape individual career trajectories.
     </p>
 </div>
 
