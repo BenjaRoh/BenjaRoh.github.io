@@ -40,6 +40,18 @@ nav_order: 2
 **State Formation, Patronage and Parties in the Early American Republic: The Case of New York**  
 Manuscript in preparation
 
+<div class="button-container">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-9">
+        Abstract
+    </button>
+</div>
+
+<div id="abstract-9" class="abstract-content">
+    <p>
+        Despite renewed interest in political parties among political sociologists, the origins of parties and party systems remain poorly understood. Turning to the important American case, this paper examines the formation of the first political parties in U.S. history through the lens of political patronage. Utilizing a novel dataset encompassing all appointments made in the State of New York between 1789 and 1802—the period during which the first American party system took shape—as well as data on the recipients of these appointments, I provide a systematic study of the factors shaping the allocation of political offices. Conditional logistic regressions identify partisanship as the strongest determinant of whether someone received an appointment. The results hold after controlling for other allocation mechanisms based on region/district, seniority, elite status (wealth, college education, number of slaves owned, member of the Society of the Cincinnati, being a lawyer), prior military service, and personal connections to the people in charge of allocating appointments. This finding challenges the prevailing view that the early American political system was primarily driven by personalistic networks and notables, showing that systematic party patronage emerged in New York as early as the 1790s. The study highlights the fundamental interdependence of state and party formation, arguing that the early use of patronage was not a form of corruption but a key mechanism for integrating political actors into the emerging party system and expanding state capacity. 
+    </p>
+</div>
+
 
 **Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs)  
 Manuscript under review
@@ -82,6 +94,19 @@ Together with John Levi Martin (University of Chicago) and the University of Man
 **The Weimar Parliament Database** (with John Levi Martin, Jan Kamlah, Julius Diener, and David Schweizer)  
 Manuscript in preparation
 
+<div class="button-container">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-10">
+        Abstract
+    </button>
+</div>
+
+<div id="abstract-10" class="abstract-content">
+    <p>
+        This paper introduces a novel database comprising all parliamentary speeches delivered in the German National Constitutional Assembly (1919) as well as the German Reichstag during the Weimar Republic (1920-1932). Our database provides high value to researchers due to improved text quality and metadata. In a first step, the original protocols, printed in the Fraktur (Black Letter) typeface, were turned into machine-readable text using eScriptorium, a platform based on the Kraken OCR engine. Frequent layout and text recognition errors were corrected using a series of custom Python scripts. Next, all speeches were extracted and compiled into a structured database. This database includes metadata such as the session and date of the speech and the speaker’s name and party. Finally, we classified speech topics using our own topic classification model based on an adjusted version of the CAP coding scheme. This model can in the future be used and fine-tuned by researchers for classifying historical political speech. We provide basic descriptives about the database and demonstrate the usability of our data and classification model by exploring issue salience between parties and following a major historical event.
+    </p>
+</div>
+
+
 **Mapping Elite Conflict in Weimar Germany: The Structure of Parliamentary Interactions** (with John Levi Martin)  
 Manuscript in preparation
 
@@ -122,6 +147,17 @@ In a collaborative project with William McAllister (Columbia University), I stud
 **State Building and the Changing Structure of American Elite Recruitment, 1850-2000** (with William McAllister)  
 Manuscript in preparation
 
+<div class="button-container">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-11">
+        Abstract
+    </button>
+</div>
+
+<div id="abstract-11" class="abstract-content">
+    <p>
+        What constitutes the structure of recruitment to elite, politically appointed positions in the American national government is thought to be a settled question. Recruitment works as the American founders intended, it is thought, bringing people into government with extensive careers in private organizations who then return to those organizations after a brief stint running a government department, agency, commission and the like. However, from the perspective of state-building, this seems unlikely. As the American state developed extensive bureaucratic organizations, we might expect these organizations to be a greater locus of careers, as is found in other countries. To see if this is the case, we collect exceedingly detailed data on the careers of people in these elite positions from 1850 to 1998 and look at three elements of recruitment: centralization, concentration, and permeability. We find that, over this time and especially since World War II, these elements have changed in ways consistent with state-building and at some odds to the picture drawn in the literature. We conclude with a discussion of the possible meaning of our findings for democratic governance.
+    </p>
+</div>
 
 <br/>
 
