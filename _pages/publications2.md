@@ -180,7 +180,7 @@ Manuscript under review
     </p>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
+* *Honorable Mention, 2023 Reinhard Bendix Student Paper Award from the ASA Comparative-Historical Sociology Section*
 
 
 
