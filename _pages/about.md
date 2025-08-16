@@ -35,7 +35,7 @@ Welcome! I am a political and historical sociologist who uses quantitative and c
 
 My main research project examines the relationship between state formation and the emergence of the first political parties in American history (1777-1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the changing structure of elite recruitment in the American state (1850-2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376-1378). My latest project utilizes NLP tools to analyze the protocols of the German *Reichstag* during the Weimar Republic (1919-1932).
 
-My <a href="{{ "/research/" | relative_url }}" style="color: darkgreen; font-weight: bold;">research</a> has been published or is forthcoming in the *American Sociological Review*, *Sociological Methods and Research*, *Social Science History*, and *Poetics*.
+My <a href="{{ "/research/" | relative_url }}" style="color: darkgreen; font-weight: bold;">research</a> has been published in the *American Sociological Review*, *Sociological Methods and Research*, *Social Science History*, and *Poetics*.
 
 
 

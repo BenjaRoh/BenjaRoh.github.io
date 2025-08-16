@@ -12,7 +12,7 @@ nav_order: 2
 ## Party and State Formation in the U.S.  
   
 **The Structure of the First American Party System: The Case of New York** (with John Levi Martin)  
-*American Sociological Review*, Forthcoming
+*American Sociological Review*, 2025
 
 <div class="button-container">
     <!-- Button -->
