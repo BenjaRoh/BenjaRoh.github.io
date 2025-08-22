@@ -11,7 +11,7 @@ nav_order: 2
 
 ## Party and State Formation in the U.S.  
   
-**The Structure of the First American Party System: The Case of New York** (with John Levi Martin)  
+**The State and the Emergence of the First American Party System: Roll Call Voting in the New York State Assembly during the Early Republic** (with John Levi Martin)  
 *American Sociological Review*, 2025
 
 <div class="button-container">
