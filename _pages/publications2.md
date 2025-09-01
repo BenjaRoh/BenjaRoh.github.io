@@ -37,7 +37,7 @@ nav_order: 2
 </div>
 
 
-**State Formation, Patronage and Parties in the Early American Republic: The Case of New York**  
+**State Formation, Patronage and Parties in the Early American Republic**  
 Manuscript in preparation
 
 <div class="button-container">
@@ -54,7 +54,7 @@ Manuscript in preparation
 
 
 **Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs)  
-Manuscript under review
+Revise and Resubmit at *Sociological Theory*
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-2">
