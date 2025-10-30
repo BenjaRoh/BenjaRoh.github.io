@@ -11,18 +11,19 @@ nav_order: 2
 
 ## Party and State Formation in the U.S.  
   
-**The State and the Emergence of the First American Party System: Roll Call Voting in the New York State Assembly during the Early Republic** (with John Levi Martin)  
+<a href="https://doi.org/10.1177/00031224251344574"
+   class="paper-title"
+   target="_blank">
+    The State and the Emergence of the First American Party System: Roll Call Voting in the New York State Assembly during the Early Republic</a> (with John Levi Martin)
+<br>
 *American Sociological Review*, 2025
+
 
 <div class="button-container">
     <!-- Button -->
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-1">
         Abstract
     </button>
-
-    <a href="https://doi.org/10.1177/00031224251344574" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 
     <a href="https://doi.org/10.7910/DVN/JLUVYU" class="btn btn--inverse" target="_blank">
         replication files
@@ -73,17 +74,15 @@ Revise and Resubmit at *Sociological Theory*
 Manuscript in preparation
 
 
-**Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822**  
-
-<div class="button-container">
-    <a href="https://knowledge.uchicago.edu/record/4749?ln=en&v=pdf" class="btn btn--inverse" target="_blank">
-        Link
+<a href="https://doi.org/10.1177/00031224251344574"
+   class="paper-title"
+   target="_blank">
+    Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822
     </a>
-</div>
 
 
+<br>
 
-<br/>
 
 
 ***
@@ -91,7 +90,7 @@ Manuscript in preparation
 ## Political Discourse in the Weimar Republic
 Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1919-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
-**The Weimar Parliament Database** (with John Levi Martin, Jan Kamlah, Julius Diener, and David Schweizer)  
+**The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
 Manuscript in preparation
 
 <div class="button-container">
@@ -123,7 +122,12 @@ Manuscript in preparation
 In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
 
 
-**Elite Cohesion in the American Administrative State, 1898-1998**  
+<a href="https://doi.org/10.1017/ssh.2025.16"
+   class="paper-title"
+   target="_blank">
+    Elite Cohesion in the American Administrative State, 1898-1998
+    </a> 
+<br>
 *Social Science History*, 2025
 
 <div class="button-container">
@@ -131,9 +135,6 @@ In a collaborative project with William McAllister (Columbia University), I stud
         Abstract
     </button>
 
-    <a href="https://doi.org/10.1017/ssh.2025.16" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 </div>
 
 <div id="abstract-3" class="abstract-content">
@@ -190,7 +191,11 @@ Manuscript under review
 
 ## Political Discourse in Renaissance Florence
 
-**Political Discussion and Debate in Narrative Time: The Florentine Consulte e Pratiche, 1376-1378** (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)  
+<a href="https://doi.org/10.1016/j.poetic.2019.101377"
+   class="paper-title"
+   target="_blank">
+    Political Discussion and Debate in Narrative Time: The Florentine Consulte e Pratiche, 1376-1378</a> (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)
+<br>
 *Poetics*, 2020
 
 <div class="button-container">
@@ -198,9 +203,6 @@ Manuscript under review
         Abstract
     </button>
 
-    <a href="https://doi.org/10.1016/j.poetic.2019.101377" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 </div>
 
 <div id="abstract-5" class="abstract-content">
@@ -211,7 +213,11 @@ Manuscript under review
 
 
 
-**Political Conflict and Revolt in Generational Time: The Florentine Consulte e Pratiche and Ciompi Revolt, 1376-1378** (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)  
+<a href="https://doi.org/10.1016/j.poetic.2019.101386"
+   class="paper-title"
+   target="_blank">
+    Conflict and Revolt in the Name of Unity: Florentine Factions in the Consulte e Pratiche on the Cusp of the Ciompi Revolt</a> (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)
+<br>
 *Poetics*, 2020
 
 <div class="button-container">
@@ -219,9 +225,6 @@ Manuscript under review
         Abstract
     </button>
 
-    <a href="https://doi.org/10.1016/j.poetic.2019.101386" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 </div>
 
 <div id="abstract-6" class="abstract-content">
@@ -237,7 +240,11 @@ Manuscript under review
 
 ## Other Work
 
-**How (Not) to Control for Population Size in Ecological Analyses** (with John Levi Martin).  
+<a href="https://doi.org/10.1177/0049124120986188"
+   class="paper-title"
+   target="_blank">
+    How (Not) to Control for Population Size in Ecological Analyses</a> (with John Levi Martin)
+<br>
 *Sociological Methods and Research*, 2024
 
 <div class="button-container">
@@ -245,9 +252,6 @@ Manuscript under review
         Abstract
     </button>
 
-    <a href="https://doi.org/10.1177/0049124120986188" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 </div>
 
 <div id="abstract-7" class="abstract-content">
@@ -258,7 +262,11 @@ Manuscript under review
 
 
 
-**Economic Networks and Political Culture** (with Maurice Bokanga and John Levi Martin).  
+<a href="https://doi.org/10.4337/9781803928784.00011"
+   class="paper-title"
+   target="_blank">
+    Economic Networks and Political Culture</a> (with Maurice Bokanga and John Levi Martin)
+<br>
 *Handbook of Culture and Social Networks*, 2025
 
 <div class="button-container">
@@ -266,9 +274,6 @@ Manuscript under review
         Abstract
     </button>
 
-    <a href="https://doi.org/10.4337/9781803928784.00011" class="btn btn--inverse" target="_blank">
-        Link
-    </a>
 </div>
 
 <div id="abstract-8" class="abstract-content">
@@ -299,6 +304,28 @@ Manuscript under review
         margin-top: -15px;
         margin-bottom: 15px;
     }
+
+    /* Base: same font weight for both versions */
+    .paper-title {
+    font-weight: 500; /* match the exact bold you want */
+    text-decoration: none; /* never underline by default */
+    }
+
+    /* Only links get the underline (and the thickness) */
+    a.paper-title {
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    }
+
+    /* Only linked titles lose underline on hover/focus */
+    a.paper-title:hover,
+    a.paper-title:focus {
+    text-decoration: none;
+    }
+
+    /* Optional: make Markdown **strong** match exactly the same weight */
+    strong { font-weight: 400; }
+
 
     /*  Set spacing after paragraph (use same value as margin-botton for button container) */
     p, h2, h3, h4, strong {
