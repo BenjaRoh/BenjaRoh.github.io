@@ -88,7 +88,7 @@ Manuscript in preparation
 ***
 
 ## Political Discourse in the Weimar Republic
-Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1919-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
+Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
 **The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
 Manuscript in preparation
