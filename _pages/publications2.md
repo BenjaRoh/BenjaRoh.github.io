@@ -1,13 +1,14 @@
 ---
 layout: page
 permalink: /research/
-title: RESEARCH
+title: Research
 description: 
 nav: true
 nav_order: 2
 ---
 
 
+***
 
 ## Party and State Formation in the U.S.  
   
@@ -38,22 +39,6 @@ nav_order: 2
 </div>
 
 
-**State Formation, Patronage and Parties in the Early American Republic**  
-Manuscript in preparation
-
-<div class="button-container">
-    <button class="btn btn--inverse abstract-toggle" data-target="abstract-9">
-        Abstract
-    </button>
-</div>
-
-<div id="abstract-9" class="abstract-content">
-    <p>
-        Despite renewed interest in political parties among political sociologists, the origins of parties and party systems remain poorly understood. Turning to the important American case, this paper examines the formation of the first political parties in U.S. history through the lens of political patronage. Utilizing a novel dataset encompassing all appointments made in the State of New York between 1789 and 1802—the period during which the first American party system took shape—as well as data on the recipients of these appointments, I provide a systematic study of the factors shaping the allocation of political offices. Conditional logistic regressions identify partisanship as the strongest determinant of whether someone received an appointment. The results hold after controlling for other allocation mechanisms based on region/district, seniority, elite status (wealth, college education, number of slaves owned, member of the Society of the Cincinnati, being a lawyer), prior military service, and personal connections to the people in charge of allocating appointments. This finding challenges the prevailing view that the early American political system was primarily driven by personalistic networks and notables, showing that systematic party patronage emerged in New York as early as the 1790s. The study highlights the fundamental interdependence of state and party formation, arguing that the early use of patronage was not a form of corruption but a key mechanism for integrating political actors into the emerging party system and expanding state capacity. 
-    </p>
-</div>
-
-
 **Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs)  
 Revise and Resubmit at *Sociological Theory*
 
@@ -66,6 +51,22 @@ Revise and Resubmit at *Sociological Theory*
 <div id="abstract-2" class="abstract-content">
     <p>
         Network studies of politics often assume that action is shaped by network position. However, this structuralist aproach breaks down in the case of political elites, who maintain power through strategic flexibility, and it distracts us from the actors and actions that are most revealing of the political field. We advance an “action-in-networks” approach that studies and theorizes how elites make, maintain, and sever ties as they form political alliances. We illustrate this through the case of John Williams, a prominent early New York politician who switched from the Republican to the Federalist party in 1795. Drawing on over 300 personal letters, we show that Williams’ switch was not the outcome of his network position but a strategic move that reconfigured his social ties. Our study highlights the importance of cutting ties and draws attention to the cultural logics that shape political action.
+    </p>
+</div>
+
+
+**State Formation, Patronage and Parties in the Early American Republic**  
+Manuscript in preparation
+
+<div class="button-container">
+    <button class="btn btn--inverse abstract-toggle" data-target="abstract-9">
+        Abstract
+    </button>
+</div>
+
+<div id="abstract-9" class="abstract-content">
+    <p>
+        Despite renewed interest in political parties among political sociologists, the origins of parties and party systems remain poorly understood. Turning to the important American case, this paper examines the formation of the first political parties in U.S. history through the lens of political patronage. Utilizing a novel dataset encompassing all appointments made in the State of New York between 1789 and 1802—the period during which the first American party system took shape—as well as data on the recipients of these appointments, I provide a systematic study of the factors shaping the allocation of political offices. Conditional logistic regressions identify partisanship as the strongest determinant of whether someone received an appointment. The results hold after controlling for other allocation mechanisms based on region/district, seniority, elite status (wealth, college education, number of slaves owned, member of the Society of the Cincinnati, being a lawyer), prior military service, and personal connections to the people in charge of allocating appointments. This finding challenges the prevailing view that the early American political system was primarily driven by personalistic networks and notables, showing that systematic party patronage emerged in New York as early as the 1790s. The study highlights the fundamental interdependence of state and party formation, arguing that the early use of patronage was not a form of corruption but a key mechanism for integrating political actors into the emerging party system and expanding state capacity. 
     </p>
 </div>
 
@@ -293,9 +294,16 @@ Manuscript under review
         padding: 10px;
         border: 2px dashed var(--global-divider-color); /* Full border */
         margin-top: 15px;
-        margin-bottom: 15px; 
+        margin-bottom: 15px;
+        margin-left: 25px;
+        margin-right: 250px;
+        font-size: 0.9rem; 
     }
     
+    .abstract-content p:last-child {
+        margin-bottom: 0;
+    }
+
     /* Flexbox to align buttons in a row */
     .button-container {
         display: flex;
@@ -303,6 +311,10 @@ Manuscript under review
         align-items: center; /* Aligns buttons vertically */
         margin-top: -15px;
         margin-bottom: 15px;
+    }
+
+    .button-container .btn {
+        font-size: 0.7rem;   /* adjust to taste */
     }
 
     /* Base: same font weight for both versions */

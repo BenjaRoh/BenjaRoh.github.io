@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: TEACHING
+title: Teaching
 description: 
 nav: true
 nav_order: 3
@@ -27,7 +27,7 @@ nav_order: 3
     </a>
 </div>
 
-**Introduction to Political Sociology** (graduate). University of Mannheim. Fall 2023, Fall 2024.
+**Introduction to Political Sociology** (graduate). University of Mannheim. Fall 2023, Fall 2024, Fall 2025.
 
 <div class="button-container">
     <a href="{{ BenjaRoh.github.io }}/assets/Intro_Political_Soc_Syllabus.pdf" class="btn btn--inverse" target="_blank">
@@ -90,6 +90,10 @@ Mentor at “Summer Institute in Social Research Methods,” University of Chica
         margin-bottom: 15px;
     }
 
+    .button-container .btn {
+            font-size: 0.7rem;   /* adjust to taste */
+        }
+        
     /*  Set spacing after paragraph (use same value as margin-botton for button container) */
     p, h2, h3, h4, strong {
         margin-bottom: 15px; /* Ensures uniform spacing between text blocks */
