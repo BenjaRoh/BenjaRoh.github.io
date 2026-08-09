@@ -93,7 +93,7 @@ Manuscript in preparation
 Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
 **The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
-Revise and Resubmit at Scientific Data
+Revise and Resubmit at *Scientific Data*
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-10">
@@ -108,7 +108,7 @@ Revise and Resubmit at Scientific Data
 </div>
 
 
-**Mapping Elite Conflict in Weimar Germany: The Structure of Parliamentary Interactions** (with John Levi Martin)  
+**Measuring Party Positions Using Votes, Speeches, and Interjections** (with John Levi Martin)  
 Manuscript under review
 
 **The Decline of Deference in Weimar Germany** (with John Levi Martin)  
@@ -201,7 +201,7 @@ Manuscript under review
    target="_blank">
     Political Discussion and Debate in Narrative Time: The Florentine Consulte e Pratiche, 1376-1378</a> (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)
 <br>
-***Poetics***, 2020
+*Poetics*, 2020
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-5">
