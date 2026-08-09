@@ -17,7 +17,7 @@ nav_order: 2
    target="_blank">
     The State and the Emergence of the First American Party System: Roll Call Voting in the New York State Assembly during the Early Republic</a> (with John Levi Martin)
 <br>
-*American Sociological Review*, 2025
+***American Sociological Review***, 2025
 
 
 <div class="button-container">
@@ -38,9 +38,10 @@ nav_order: 2
     </p>
 </div>
 
+* *Winner of the 2026 Charles Tilly Best Article Award from the ASA Comparative-Historical Sociology Section*
 
 **Escape from the Sargasso Sea: Elite Political Action in the Early American Republic** (with Marissa Combs)  
-Revise and Resubmit at *Sociological Theory*
+Manuscript under review
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-2">
@@ -55,7 +56,7 @@ Revise and Resubmit at *Sociological Theory*
 </div>
 
 
-**State Formation, Patronage and Parties in the Early American Republic**  
+**Parties and Patronage in the Early American Republic**  
 Manuscript in preparation
 
 <div class="button-container">
@@ -92,7 +93,7 @@ Manuscript in preparation
 Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
 **The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
-Manuscript in preparation
+Revise and Resubmit at Scientific Data
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-10">
@@ -108,6 +109,9 @@ Manuscript in preparation
 
 
 **Mapping Elite Conflict in Weimar Germany: The Structure of Parliamentary Interactions** (with John Levi Martin)  
+Manuscript under review
+
+**The Decline of Deference in Weimar Germany** (with John Levi Martin)  
 Manuscript in preparation
 
 **The Structure of Parliamentary Discourse about Women in the Weimar Republic, 1919-1932** (with Keonhi Son)  
@@ -129,7 +133,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
     Elite Cohesion in the American Administrative State, 1898-1998
     </a> 
 <br>
-*Social Science History*, 2025
+***Social Science History***, 2025
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-3">
@@ -147,7 +151,7 @@ In a collaborative project with William McAllister (Columbia University), I stud
 
 
 **State Building and the Changing Structure of American Elite Recruitment, 1850-2000** (with William McAllister)  
-Manuscript in preparation
+Manuscript under review
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-11">
@@ -197,7 +201,7 @@ Manuscript under review
    target="_blank">
     Political Discussion and Debate in Narrative Time: The Florentine Consulte e Pratiche, 1376-1378</a> (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)
 <br>
-*Poetics*, 2020
+***Poetics***, 2020
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-5">
@@ -219,7 +223,7 @@ Manuscript under review
    target="_blank">
     Conflict and Revolt in the Name of Unity: Florentine Factions in the Consulte e Pratiche on the Cusp of the Ciompi Revolt</a> (with John F. Padgett, Jonathan Schoots, and Katalin Prajda)
 <br>
-*Poetics*, 2020
+***Poetics***, 2020
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-6">
@@ -246,7 +250,7 @@ Manuscript under review
    target="_blank">
     How (Not) to Control for Population Size in Ecological Analyses</a> (with John Levi Martin)
 <br>
-*Sociological Methods and Research*, 2024
+***Sociological Methods and Research***, 2024
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-7">
@@ -268,7 +272,7 @@ Manuscript under review
    target="_blank">
     Economic Networks and Political Culture</a> (with Maurice Bokanga and John Levi Martin)
 <br>
-*Handbook of Culture and Social Networks*, 2025
+***Handbook of Culture and Social Networks***, 2025
 
 <div class="button-container">
     <button class="btn btn--inverse abstract-toggle" data-target="abstract-8">

@@ -14,7 +14,7 @@ nav_order: 5
    target="_blank">
     The State and the Emergence of the First American Party System: Roll Call Voting in the New York State Assembly during the Early Republic</a> (with John Levi Martin)
 <br>
-*American Sociological Review*, 2025
+***American Sociological Review***, 2025
 
 <div class="button-container">
     <!-- Button -->

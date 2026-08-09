@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p> 
       <a class = "subpicture"> Benjamin Rohr <br>
-      <a class = "subpicture-affil" > Postdoctoral Researcher </a>  <br>
+      <a class = "subpicture-affil" > Assistant Professor </a>  <br>
       <a class = "subpicture-affil" > Department of Sociology </a>  <br>
-      <a class = "subpicture-affil" > University of Mannheim </a>  <br>
+      <a class = "subpicture-affil" > The University of Hong Kong </a>  <br>
     </p>
 
 
@@ -31,11 +31,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political organizations. I received my PhD in Sociology from the University of Chicago and am currently a Postdoctoral Researcher in the Department of Sociology at the University of Mannheim. 
+Welcome! I am an Assistant Professor in the [Department of Sociology at The University of Hong Kong](https://sociology.hku.hk/). I received my PhD in Sociology from the University of Chicago.
 
-[comment]: <> My main research project examines the relationship between state formation and the emergence of the first American party system (1777-1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the protocols of the German *Reichstag* during the Weimar Republic (1920-1932), the changing structure of elite recruitment in the American state (1850-2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376-1378).
+[comment]: <> My main research project examines the relationship between state formation and the emergence of the first American party system (1777–1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the protocols of the German *Reichstag* during the Weimar Republic (1920–1932), the changing structure of elite recruitment in the American state (1850–2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376–1378).
 
-My current research examines state and party formation in the early American republic (1777-1820) and parliamentary debates in the German *Reichstag* during the Weimar Republic (1920-1932). I have also completed projects on the changing structure of elite recruitment in the American state (1850–2000), career mobility of political elites during China's reform era (1978–2011), and political discourse in Renaissance Florence (1376–1378).
+I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political organizations.  
+My current research examines state and party formation in the early American republic (1777-1820) and parliamentary debates in the German Reichstag during the Weimar Republic (1920-1932). I have also completed projects on the changing structure of elite recruitment in the American state (1850–2000), career mobility of political elites during China's reform era (1978–2011), and political discourse in Renaissance Florence (1376–1378).
 
 My <a href="{{ "/research/" | relative_url }}" style="color: darkgreen; font-weight: bold;">research</a> has been published in the *American Sociological Review*, *Sociological Methods and Research*, *Social Science History*, and *Poetics*.
 
