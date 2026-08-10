@@ -336,7 +336,8 @@ Manuscript under review
     /* Only linked titles lose underline on hover/focus */
     a.paper-title:hover,
     a.paper-title:focus {
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
     }
 
     /* Optional: make Markdown **strong** match exactly the same weight */
