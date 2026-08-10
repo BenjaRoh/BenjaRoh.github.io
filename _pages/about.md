@@ -31,7 +31,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Welcome! I am an Assistant Professor in the [Department of Sociology at The University of Hong Kong](https://sociology.hku.hk/). I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political organizations.  
+Welcome! I am an Assistant Professor in the [Department of Sociology at the University of Hong Kong](https://sociology.hku.hk/). I am a political and historical sociologist who uses quantitative and computational methods to study the formation and transformation of political organizations.  
 
 [comment]: <> My main research project examines the relationship between state formation and the emergence of the first American party system (1777–1820), leveraging new data on political elites’ social attributes, networks, career structures, and roll call voting. This research has been supported by an NSF Doctoral Dissertation Research Improvement Grant. My other research includes analyzing the protocols of the German *Reichstag* during the Weimar Republic (1920–1932), the changing structure of elite recruitment in the American state (1850–2000), career mobility of political elites during China’s reform era (1978-2011), and political discourse in Renaissance Florence (1376–1378).
 

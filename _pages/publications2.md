@@ -51,7 +51,7 @@ Manuscript under review
 
 <div id="abstract-2" class="abstract-content">
     <p>
-        Network studies of politics often assume that action is shaped by network position. However, this structuralist aproach breaks down in the case of political elites, who maintain power through strategic flexibility, and it distracts us from the actors and actions that are most revealing of the political field. We advance an “action-in-networks” approach that studies and theorizes how elites make, maintain, and sever ties as they form political alliances. We illustrate this through the case of John Williams, a prominent early New York politician who switched from the Republican to the Federalist party in 1795. Drawing on over 300 personal letters, we show that Williams’ switch was not the outcome of his network position but a strategic move that reconfigured his social ties. Our study highlights the importance of cutting ties and draws attention to the cultural logics that shape political action.
+        Network studies of politics often assume that action is shaped by network position. However, this structuralist approach breaks down in the case of political elites, who maintain power through strategic flexibility, and it distracts us from the actors and actions that are most revealing of the political field. We advance an “action-in-networks” approach that studies and theorizes how elites make, maintain, and sever ties as they form political alliances. We illustrate this through the case of John Williams, a prominent early New York politician who switched from the Republican to the Federalist party in 1795. Drawing on over 300 personal letters, we show that Williams’ switch was not the outcome of his network position but a strategic move that reconfigured his social ties. Our study highlights the importance of cutting ties and draws attention to the cultural logics that shape political action.
     </p>
 </div>
 
@@ -76,7 +76,7 @@ Manuscript in preparation
 Manuscript in preparation
 
 
-<a href="https://doi.org/10.1177/00031224251344574"
+<a href="https://doi.org/10.6082/uchicago.4749"
    class="paper-title"
    target="_blank">
     Dissertation: Portraits of a Political World: The Structure of the First Party System in New York, 1777-1822
@@ -329,7 +329,7 @@ Manuscript under review
 
     /* Only links get the underline (and the thickness) */
     a.paper-title {
-    text-decoration: underline;
+    text-decoration: none;
     text-decoration-thickness: 1px;
     }
 
@@ -340,8 +340,7 @@ Manuscript under review
     }
 
     /* Optional: make Markdown **strong** match exactly the same weight */
-    strong { font-weight: 400; }
-
+    strong { font-weight: 500; }
 
     /*  Set spacing after paragraph (use same value as margin-botton for button container) */
     p, h2, h3, h4, strong {
@@ -357,7 +356,7 @@ Manuscript under review
                 let abstractDiv = document.getElementById(abstractId);
                 if (abstractDiv.style.display === "none" || abstractDiv.style.display === "") {
                     abstractDiv.style.display = "block";
-                    this.textContent = "Abstract";
+                    this.textContent = "Hide Abstract";
                 } else {
                     abstractDiv.style.display = "none";
                     this.textContent = "Abstract";
