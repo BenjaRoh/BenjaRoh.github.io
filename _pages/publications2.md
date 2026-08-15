@@ -90,7 +90,7 @@ Manuscript in preparation
 ***
 
 ## Political Discourse in the Weimar Republic
-Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
+[comment]: <> Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
 **The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
 Revise and Resubmit at *Scientific Data*
@@ -112,7 +112,7 @@ Revise and Resubmit at *Scientific Data*
 Manuscript under review
 
 **The Decline of Deference in Weimar Germany** (with John Levi Martin)  
-Manuscript in preparation
+Manuscript under review
 
 **The Structure of Parliamentary Discourse about Women in the Weimar Republic, 1919-1932** (with Keonhi Son)  
 Manuscript in preparation
@@ -124,7 +124,7 @@ Manuscript in preparation
 
 ## State Building and Political Careers in the U.S.
 
-In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
+[comment]: <> In a collaborative project with William McAllister (Columbia University), I study the career paths that led into elite administrative positions in the American state between 1850 and 2000.
 
 
 <a href="https://doi.org/10.1017/ssh.2025.16"

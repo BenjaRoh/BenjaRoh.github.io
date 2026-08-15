@@ -19,7 +19,7 @@ nav_order: 3
     </a>
 </div>
 
-**Social Networks and Politics** (undergraduate). University of Mannheim. Fall 2022, Spring 2023, Spring 2024, Spring 2025. 
+**Social Networks and Politics** (undergraduate). University of Mannheim. Fall 2022, Spring 2023, Spring 2024, Spring 2025, Spring 2026. 
 
 <div class="button-container">
     <a href="{{ BenjaRoh.github.io }}/assets/SNAP_Syllabus.pdf" class="btn btn--inverse" target="_blank">
@@ -65,9 +65,9 @@ nav_order: 3
 
 ## Other
 
-Consultant at “DataFest Germany 2024”
+Consultant at DataFest Germany 2024 and 2026
 
-Mentor at “Summer Institute in Social Research Methods,” University of Chicago, Summer 2021
+Mentor at the Summer Institute in Social Research Methods, University of Chicago, Summer 2021
 
 
 
