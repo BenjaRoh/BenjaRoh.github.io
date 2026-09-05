@@ -92,7 +92,7 @@ Manuscript in preparation
 ## Political Discourse in the Weimar Republic
 [comment]: <> Together with John Levi Martin (University of Chicago) and the University of Mannheim Library I have digitized the protocols of the German *Reichstag* during the Weimarer Republic (1920-1932). We are currently in the process of turning the raw text into a structured database with speaker meta-data which we plan to make publicly available in the next few months. Using NLP tools, this project will examine parliamentary discourse in the Weimar Republic, focusing in particular on interactions among parlamentarians.
 
-**The Weimar Parliament Database** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
+**The Weimar Parliament Corpus** (with Jan Kamlah, Julius Diener, and David Schweizer, and John Levi Martin)  
 Revise and Resubmit at *Scientific Data*
 
 <div class="button-container">
@@ -103,7 +103,7 @@ Revise and Resubmit at *Scientific Data*
 
 <div id="abstract-10" class="abstract-content">
     <p>
-        This paper introduces a novel database comprising all parliamentary speeches delivered in the German National Constitutional Assembly (1919) as well as the German Reichstag during the Weimar Republic (1920-1932). Our database provides high value to researchers due to improved text quality and metadata. In a first step, the original protocols, printed in the Fraktur (Black Letter) typeface, were turned into machine-readable text using eScriptorium, a platform based on the Kraken OCR engine. Frequent layout and text recognition errors were corrected using a series of custom Python scripts. Next, all speeches were extracted and compiled into a structured database. This database includes metadata such as the session and date of the speech and the speaker’s name and party. Finally, we classified speech topics using our own topic classification model based on an adjusted version of the CAP coding scheme. This model can in the future be used and fine-tuned by researchers for classifying historical political speech. We provide basic descriptives about the database and demonstrate the usability of our data and classification model by exploring issue salience between parties and following a major historical event.
+        The Weimar Parliament Corpus (WeiParCor) contains all parliamentary speeches delivered in the German Reichstag during the Weimar Republic (1920–1932). The corpus provides high-quality text data and richly curated metadata, including session, date, and speaker characteristics such as name, office, party affiliation, and gender. The speeches were digitized from the original parliamentary protocols and organized into a structured database. In addition, each sentence is classified by topic using a transformer-based model trained on an adapted version of the Comparative Agendas Project coding scheme. The model can be fine-tuned by researchers working with historical political texts.
     </p>
 </div>
 

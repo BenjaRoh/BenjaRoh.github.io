@@ -13,7 +13,7 @@ profile:
       <a class = "subpicture"> Benjamin Rohr <br>
       <a class = "subpicture-affil" > Assistant Professor </a>  <br>
       <a class = "subpicture-affil" > Department of Sociology </a>  <br>
-      <a class = "subpicture-affil" > The University of Hong Kong </a>  <br>
+      <a class = "subpicture-affil" > University of Hong Kong </a>  <br>
     </p>
 
 
