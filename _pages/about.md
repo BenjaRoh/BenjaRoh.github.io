@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: left
-  image: BR.jpg
+  image: BR_2.png
   image_circular: true # crops the image to make it circular
   more_info: >
     <p> 
