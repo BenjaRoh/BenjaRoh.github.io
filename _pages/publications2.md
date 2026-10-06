@@ -111,8 +111,7 @@ Revise and Resubmit at *Scientific Data*
 **Measuring Party Positions Using Votes, Speeches, and Interjections** (with John Levi Martin)  
 Manuscript under review
 
-**The Decline of Deference in Weimar Germany** (with John Levi Martin)  
-Manuscript under review
+[comment]: <> **The Decline of Deference in Weimar Germany** (with John Levi Martin) Manuscript under review
 
 **The Structure of Parliamentary Discourse about Women in the Weimar Republic, 1919-1932** (with Keonhi Son)  
 Manuscript in preparation
